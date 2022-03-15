@@ -11,7 +11,7 @@
 ![screenshot-localhost_3000-2022 03 02-07_54_45](https://user-images.githubusercontent.com/11747875/158313253-22a37019-7c87-4bc1-999e-8381bf90a718.mp4
 )
 
-[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/React-Jokes/)
+[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://rapp-dad-jokes-api.herokuapp.com/jokes)
 
 <br>
 
@@ -52,7 +52,7 @@ A basic static page built using React.
 ### Project published at: 
 ---
 
-[REACT FACTS](https://trrapp12.github.io/React-Jokes/)
+[REACT FACTS](https://rapp-dad-jokes-api.herokuapp.com/jokes)
 
 ### Original Project Published at: 
 ---
