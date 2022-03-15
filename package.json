@@ -1,0 +1,30 @@
+{
+  "name": "jokes_api",
+  "version": "1.0.0",
+  "description": "project testing serving up a json database as an API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trrapp12/jokes-api.git"
+  },
+  "keywords": [
+    "npm",
+    "json",
+    "API",
+    "Trevor",
+    "Rapp"
+  ],
+  "author": "Trevor Rapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trrapp12/jokes-api/issues"
+  },
+  "homepage": "https://github.com/trrapp12/jokes-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
