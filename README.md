@@ -53,6 +53,11 @@ A basic static page built using React.
 
 [REACT FACTS](https://trrapp12.github.io/React-Jokes/)
 
+### Original Project Published at: 
+---
+
+[Make your own mock API (super simple)](https://www.youtube.com/watch?v=FLnxgSZ0DG4&t=516s)
+
 ### More Information:
 ---
 
