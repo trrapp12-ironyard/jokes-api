@@ -44,15 +44,22 @@ A basic static page built using React.
 - [x] Publishing of a basic API
 - [x] Publishing to Heroku
 
+<br>
+
 ### Project published at: 
 ---
 
 [REACT FACTS](https://rapp-dad-jokes-api.herokuapp.com/jokes)
 
+<br>
+
 ### Original Project Published at: 
+
 ---
 
 [Make your own mock API (super simple)](https://www.youtube.com/watch?v=FLnxgSZ0DG4&t=516s)
+
+<br>
 
 ### More Information:
 ---
