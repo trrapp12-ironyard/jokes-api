@@ -6,13 +6,13 @@
 
 ---
 
-<br>
 
 https://user-images.githubusercontent.com/11747875/158313253-22a37019-7c87-4bc1-999e-8381bf90a718.mp4
 
 
 [![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://rapp-dad-jokes-api.herokuapp.com/jokes)
 
+<br>
 <br>
 
 ---
@@ -36,6 +36,9 @@ https://user-images.githubusercontent.com/11747875/158313253-22a37019-7c87-4bc1-
 
 A basic static page built using React. 
 
+<br>
+<br>
+
 ### Project v1.0 demonstrates the following:
 ---
 
@@ -45,12 +48,14 @@ A basic static page built using React.
 - [x] Publishing to Heroku
 
 <br>
+<br>
 
 ### Project published at: 
 ---
 
 [REACT FACTS](https://rapp-dad-jokes-api.herokuapp.com/jokes)
 
+<br>
 <br>
 
 ### Original Project Published at: 
@@ -59,6 +64,7 @@ A basic static page built using React.
 
 [Make your own mock API (super simple)](https://www.youtube.com/watch?v=FLnxgSZ0DG4&t=516s)
 
+<br>
 <br>
 
 ### More Information:
