@@ -42,7 +42,7 @@ A basic static page built using React.
 <br>
 <br>
 
-### Project v1.0 demonstrates the following:
+### BAD DAD JOKES API v1.0 demonstrates the following:
 ---
 
 - [x] Use of NodeJS
@@ -53,7 +53,7 @@ A basic static page built using React.
 <br>
 <br>
 
-### Project published at: 
+### BAD DAD JOKES API published at: 
 ---
 
 [REACT FACTS](https://rapp-dad-jokes-api.herokuapp.com/jokes)
