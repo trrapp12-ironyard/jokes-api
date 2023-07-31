@@ -41,17 +41,14 @@ A basic static page built using React.
 
 See video for demonstration
 
+---
 
 ### THIS PROJECT DEMONSTRATES:
----
 
 - [x] Use of NodeJS
 - [x] Use of basic backend server
 - [x] Publishing of a basic API
 - [x] Publishing to Heroku
-
-<br>
-<br>
 
 ---
 
@@ -71,9 +68,6 @@ See video for demonstration
 ### ATTRIBUTIONS 
 
 * original tutoial at [Make your own mock API (super simple)](https://www.youtube.com/watch?v=FLnxgSZ0DG4&t=516s)
-
-<br>
-<br>
 
 ---
 
