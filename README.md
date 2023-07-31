@@ -34,13 +34,21 @@ https://user-images.githubusercontent.com/11747875/158313253-22a37019-7c87-4bc1-
 
 ### Description:
 
-
----
+> APIs are cool
+>
+> --anonymous
 
 A basic static page built using React. 
 
 <br>
 <br>
+
+---
+
+### QUICKSTART GUIDE: 
+
+To use the app simply click on the ```View Project``` button or visit https://gentle-monstera-8c285d.netlify.app/. 
+
 
 ### BAD DAD JOKES API v1.0 demonstrates the following:
 ---
