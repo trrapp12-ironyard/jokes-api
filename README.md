@@ -27,9 +27,6 @@ https://user-images.githubusercontent.com/11747875/158313253-22a37019-7c87-4bc1-
 
 ---
 
-<br>
-<br>
-
 ### Description:
 
 > APIs are cool
@@ -37,9 +34,6 @@ https://user-images.githubusercontent.com/11747875/158313253-22a37019-7c87-4bc1-
 > --anonymous
 
 A basic static page built using React. 
-
-<br>
-<br>
 
 ---
 
@@ -65,7 +59,7 @@ See video for demonstration
 
 * This was a follow along tutorial, but was very helpful in helping me see the other side of APIs.  Not just consuming, but creating.
 
-  ---
+---
 
 ### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
 
