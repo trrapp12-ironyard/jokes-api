@@ -1,8 +1,6 @@
 # BAD DAD JOKES API
 
-
-
-##### Contributors: Trevor Rapp, Ania Kubow
+### Contributors: Trevor Rapp, Ania Kubow
 
 ---
 
@@ -47,10 +45,10 @@ A basic static page built using React.
 
 ### QUICKSTART GUIDE: 
 
-To use the app simply click on the ```View Project``` button or visit https://gentle-monstera-8c285d.netlify.app/. 
+See video for demonstration
 
 
-### BAD DAD JOKES API v1.0 demonstrates the following:
+### THIS PROJECT DEMONSTRATES:
 ---
 
 - [x] Use of NodeJS
@@ -61,27 +59,33 @@ To use the app simply click on the ```View Project``` button or visit https://ge
 <br>
 <br>
 
-### BAD DAD JOKES API published at: 
 ---
 
-[REACT FACTS](https://rapp-dad-jokes-api.herokuapp.com/jokes)
+### CHALLENGES I OVERCAME...
 
-<br>
-<br>
+* This was a follow along tutorial, but was very helpful in helping me see the other side of APIs.  Not just consuming, but creating.
 
-### Original Project Published at: 
+  ---
+
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
+
+- [X] completing tutorial
+- [X] updating data
 
 ---
 
-[Make your own mock API (super simple)](https://www.youtube.com/watch?v=FLnxgSZ0DG4&t=516s)
+### ATTRIBUTIONS 
+
+* original tutoial at [Make your own mock API (super simple)](https://www.youtube.com/watch?v=FLnxgSZ0DG4&t=516s)
 
 <br>
 <br>
 
-### More Information:
 ---
 
-\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
+### YOU CAN FIND ME AT:
+
+\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), or return to my [Github](https://github.com/trrapp12)*
 
 
 
